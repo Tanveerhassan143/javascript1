@@ -16,7 +16,7 @@ if(yourAge >= 18){
 }
 
 var use= prompt("what is your Name")
-if(use == "tanveer"){
+if(use == "tanveer","hassan","Abu bakar Siddiq","Mukaram khan","Muhammad Zulfiqar"){
     alert("correct")
 }else{
     alert("Not correct")
